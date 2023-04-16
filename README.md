@@ -1,7 +1,5 @@
 Welcome to my portfolio site, built using Bootstrap and JavaScript!
 
-This project showcases my skills as a web developer and highlights my experience in building responsive, user-friendly websites.
-
 To view the live site, please visit [insert your site URL here].
 
 Features
@@ -20,7 +18,7 @@ Clone the repository to your local machine.
 Open the project folder in your code editor of choice.
 Open the index.html file in your web browser.
 Usage
-Feel free to use this project as a starting point for your own portfolio site. You can customize the content and design to suit your needs and showcase your own skills as a developer.
+Feel free to use this project as a starting point for your own portfolio site.
 
 Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. I am always open to feedback and suggestions for improvement.
@@ -31,5 +29,3 @@ This project was built using the following tools and resources:
 Bootstrap: https://getbootstrap.com/
 JavaScript: https://www.javascript.com/
 Font Awesome: https://fontawesome.com/
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
